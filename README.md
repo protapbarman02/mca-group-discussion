@@ -1,5 +1,7 @@
-# mca-group-discussion
-## MEMBERS 
+# MCA GROUP DISCUSSION
+
+## MEMBERS
+
 - Protap Barman
 - Pawan Das
 - Bipasha Bagchi
